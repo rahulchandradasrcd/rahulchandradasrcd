@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engin
 ---
 
 ## 📬 **Let’s Connect**
-- ✉️ Email: [Rahul Chandra Das](rahulchandradas.me@gmail.com)
+- ✉️ Email: (rahulchandradas.me@gmail.com)
 - 🌐 LinkedIn: [Rahul Chandra Das](https://www.linkedin.com/in/rahul-das-rd/)
 
 ---
