@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engin
 ## 🌱 **Currently Learning & Exploring**
 - 📱 **Mobile Automation**: Diving into mobile app automation with **APM** to ensure flawless performance across multiple devices.
 - 📝 **BDD with Cucumber**: Expanding my knowledge of **Behavior-Driven Development (BDD)** using **Cucumber** to automate test cases for mobile and web applications.
+- 🌐 **Playwright**: Learning **Playwright** for browser automation, writing cross-browser tests for web applications and ensuring seamless user experiences.
 
 ---
 
