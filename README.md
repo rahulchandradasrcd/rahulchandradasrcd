@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engin
 - 🚀 **Manual Testing** on OpenCart Site: Successfully conducted thorough testing to ensure the website is robust and user-friendly. 
 - 🧪 **Automated API Testing** with Postman & Newman: Designed comprehensive test cases and detailed reports for the **REST Booking API**, ensuring seamless communication between services.
 - ⚡ **Performance Testing** with JMeter: Performance tested web applications, identifying bottlenecks and optimizing performance for a smooth user experience.
-- 💻 **Web Automation** on **BookHouse.com**: Automated test cases using **Selenium**, **Java**, **TestNG**, **Allure**, and **Surefire**. Delivered reports that highlighted system stability and functionality.
+- 💻 **Web Automation**: Automated test cases using **Selenium**, **Java**, **TestNG**, **Allure**, and **Surefire**. Delivered reports that highlighted system stability and functionality.
 
 ---
 
