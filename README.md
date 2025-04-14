@@ -49,6 +49,11 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engin
 
 ---
 
+## 📊 **My Visitors**
+![Visitor Count](https://profile-counter.glitch.me/rahulchandradasrcd/count.svg)
+
+---
+
 ## 📄 **Key Projects**
 - **[Web Automation Project - BookHouse.com](https://github.com/rahulchandradasrcd/book_house_web_automation_using_selenium_with_allure_report)**: Happy Paths web automation project using **Selenium** with **Java** and **TestNG** to ensure stability and performance.
 - **[API Testing with Postman](https://github.com/rahulchandradasrcd/Rest-Booking-API-Automated-Testing-with-Newman-Report)**: Automated API testing with **Postman** and **Newman**, generating insightful reports for the **REST Booking API**.
