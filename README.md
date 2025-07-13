@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engin
 ---
 
 ## 📊 **My Visitors**
-![](https://komarev.com/ghpvc/?username=rahulchandradasrcd&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=rahulchandradasrcd&style=flat-square&abbreviated=true&color=blueviolet)
 
 ---
 
