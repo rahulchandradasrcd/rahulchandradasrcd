@@ -1,6 +1,17 @@
 # 👋 Hi, I'm Rahul Chandra Das
 
-Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engineer** passionate about ensuring software meets the highest standards. With hands-on experience in **manual testing**, **automated API testing**, **performance testing**, and **Web automation**, I take pride in delivering bug-free, user-friendly experiences. I recently completed an enriching **SQA Internship** at **Manhattan Tech**, and now I'm on the lookout for my next exciting opportunity to apply my skills in the real world.
+Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engineer** passionate about ensuring software meets the highest standards. With hands-on experience in **manual testing**, **automated API testing**, **performance testing**, and **Web automation**, I take pride in delivering bug-free, user-friendly experiences. **Junior QA Engineer** at **Semiko Recruitment & Tech Services**, passionate about building high-quality software through manual, automation, API, and performance testing.
+
+---
+
+## 🧑‍💻 **Professional Experience**
+### **Junior QA at Semiko Recruitment & Tech Services**
+- 🔍 Conduct functional and UI testing, including smoke, sanity, and regression cycles to ensure system stability.
+- 🧪 Apply STLC practices to structure test planning, execution, and documentation.
+- 📄 Create and maintain detailed QA reports for tracking and transparency.
+- 🖥️ Manage WordPress & Elementor updates, ensuring accurate upload of trade test certificates.
+- 🌍 Support international recruitment workflows: documentation handling, candidate coordination, and communication.
+- 🔁 Streamline operational processes for candidate tracking, interview management, and follow-ups.
 
 ---
 
@@ -69,7 +80,9 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Engin
 ---
 
 ## 📚 **Training Experience**
-- **Hands-on Training at IT Training BD**: Currently receiving **hands-on training** at **IT Training BD**, where I am enhancing my skills in **automation testing**, **API testing**, and **performance testing**. This training provides me with real-world experience, further sharpening my technical expertise and keeping me up to date with the latest industry trends.
+- **Hands-on Training at Global Tech Assure**: Currently receiving **hands-on training** at **Global Tech Assure**, where I am enhancing my skills in **automation testing**, **API testing**, and **performance testing**. This training provides me with real-world experience, further sharpening my technical expertise and keeping me up to date with the latest industry trends.
+
+- **Hands-on Experience at IT Training BD**: IT Training BD **certified** in SQA—trained in automation, API, and performance testing with real project-based experience.
 
 ---
 
